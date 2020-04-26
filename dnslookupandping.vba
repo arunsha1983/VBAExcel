@@ -1,6 +1,6 @@
 ' ###################################################################################
 ' ### Constants and Type Definitions
-' ###
+' #####
 Private Const MIN_SOCKETS_REQD As Long = 1
 Private Const WS_VERSION_REQD As Long = &H101
 Private Const WS_VERSION_MAJOR As Long = WS_VERSION_REQD \ &H100 And &HFF&
